@@ -24,6 +24,8 @@
 
 但是所有出現在 Log pane 的所有資料都沒有空白區隔, 原因不明</t>
 <t tx="leo.20160128180854.1">https://github.com/FredrikNoren/ungit</t>
-<t tx="leo.20160128224413.1">利用 command 指令, 先更換到 repository 所在目錄, 然後執行 start_ungit.bat</t>
+<t tx="leo.20160128224413.1">利用 command 指令, 先更換到 repository 所在目錄, 然後執行 start_ungit.bat
+
+請注意 start_ungit.bat 位於 apps 目錄下</t>
 </tnodes>
 </leo_file>
