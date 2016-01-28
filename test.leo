@@ -10,8 +10,9 @@
 <find_panel_settings/>
 <vnodes>
 <v t="leo.20160128164022.1"><vh>在 Leo Editor 環境開發 Python 程式</vh></v>
-<v t="leo.20160128180854.1"><vh>導入以 node.js 編寫的 ungit</vh></v>
-<v t="leo.20160128180653.1"><vh>@button ungit</vh></v>
+<v t="leo.20160128180854.1" a="E"><vh>導入以 node.js 編寫的 ungit</vh>
+<v t="leo.20160128224413.1"><vh>執行 ungit 步驟</vh></v>
+</v>
 <v t="leo.20160128162108.2"><vh>@edit test.py</vh></v>
 </vnodes>
 <tnodes>
@@ -20,8 +21,7 @@
 選擇 @edit, @clean 節點, 然後按下 Ctrl+b 就可以執行程式內容
 
 但是所有出現在 Log pane 的所有資料都沒有空白區隔, 原因不明</t>
-<t tx="leo.20160128180653.1">import os
-os.system("y:/apps/start_ungit.bat")</t>
 <t tx="leo.20160128180854.1">https://github.com/FredrikNoren/ungit</t>
+<t tx="leo.20160128224413.1">利用 command 指令, 先更換到 repository 所在目錄, 然後執行 start_ungit.bat</t>
 </tnodes>
 </leo_file>
