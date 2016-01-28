@@ -14,6 +14,7 @@
 <v t="leo.20160128224413.1"><vh>執行 ungit 步驟</vh></v>
 </v>
 <v t="leo.20160128162108.2"><vh>@edit test.py</vh></v>
+<v t="leo.20160128225214.1"><vh>@edit index.html</vh></v>
 </vnodes>
 <tnodes>
 <t tx="leo.20160128164022.1">g.es() 等同 print() 會將資料印在 Log 區域
